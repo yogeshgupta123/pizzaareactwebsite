@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pizzaareactwebsite/static/css/main.e3a27a06.chunk.css",
+    "main.js": "/pizzaareactwebsite/static/js/main.0c46e400.chunk.js",
+    "main.js.map": "/pizzaareactwebsite/static/js/main.0c46e400.chunk.js.map",
+    "runtime-main.js": "/pizzaareactwebsite/static/js/runtime-main.51dd3a67.js",
+    "runtime-main.js.map": "/pizzaareactwebsite/static/js/runtime-main.51dd3a67.js.map",
+    "static/js/2.38dfb4cf.chunk.js": "/pizzaareactwebsite/static/js/2.38dfb4cf.chunk.js",
+    "static/js/2.38dfb4cf.chunk.js.map": "/pizzaareactwebsite/static/js/2.38dfb4cf.chunk.js.map",
+    "index.html": "/pizzaareactwebsite/index.html",
+    "precache-manifest.e9e6e664c2a5aa5970d25471331355a7.js": "/pizzaareactwebsite/precache-manifest.e9e6e664c2a5aa5970d25471331355a7.js",
+    "service-worker.js": "/pizzaareactwebsite/service-worker.js",
+    "static/css/main.e3a27a06.chunk.css.map": "/pizzaareactwebsite/static/css/main.e3a27a06.chunk.css.map",
+    "static/js/2.38dfb4cf.chunk.js.LICENSE.txt": "/pizzaareactwebsite/static/js/2.38dfb4cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51dd3a67.js",
+    "static/js/2.38dfb4cf.chunk.js",
+    "static/css/main.e3a27a06.chunk.css",
+    "static/js/main.0c46e400.chunk.js"
+  ]
+}
